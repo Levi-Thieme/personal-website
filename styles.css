@@ -1,0 +1,39 @@
+.jumbotron-fluid{
+    height: 125px;
+    background: lightslategray;
+    color: whitesmoke;
+    font-size: 6rem;
+    vertical-align: text-top;
+}
+
+.carousel {
+    border: solid 1px black;
+}
+
+#carouselContainer {
+    margin-top: 20px;
+}
+
+#carouselContainer h1 {
+    text-align: center;
+}
+
+/* unvisited link */
+a:link {
+    color: white;
+}
+
+/* visited link */
+a:visited {
+    color: lightgray;
+}
+
+/* mouse over link */
+a:hover {
+    color: blue;
+}
+
+/* selected link */
+a:active {
+    color: royalblue;
+}
